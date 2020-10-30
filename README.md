@@ -57,6 +57,3 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jaweria332&layout=compact'>
  </p>
 
-[gmail]: hiyamughal@gmail.com
-[twitter]: https://twitter.com/JiyaMug66581006
-[linkedin]: https://linkedin.com/in/jiya-mughal-31ab631ab
