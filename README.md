@@ -10,13 +10,25 @@
 - ⚡ Fun fact: Singing is my hobby apart from studies and learning.
 
 
-### Connect with me:
+### Connect With Me :v:
 
-[<img align="left" alt="JiyaMug66581006 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jiya-mughal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
+<br>
+<a href="https://twitter.com/JiyaMug66581006">
+  <img align="left" alt="Jaweria Niaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jiya-mughal-31ab631ab/">
+  <img align="left" alt="LinkedIn Jaweria Niaz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100006005658249">
+  <img align="left" alt="Jaweria's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="mailto:hiyamughal03@gmail.com">
+  <img align="left" alt="Jiya's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br>   
+                               
+                               
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,17 +52,11 @@
 
 ---
 
-[![Jaweria's github stats](https://github-readme-stats.vercel.app/api?username=jaweria332)](https://github.com/jaweria332/github-readme-stats)
+<p align="center">
+<img src='https://github-readme-stats.vercel.app/api?username=jaweria332&show_icons=true&theme=algolia' height:'50'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jaweria332&layout=compact'>
+ </p>
 
 [gmail]: hiyamughal@gmail.com
 [twitter]: https://twitter.com/JiyaMug66581006
 [linkedin]: https://linkedin.com/in/jiya-mughal-31ab631ab
-
-
-const themes = {
-    dark: {
-    title_color: "fff",
-    icon_color: "79ff97",
-    text_color: "9f9f9f",
-    bg_color: "151515",
-  }}
