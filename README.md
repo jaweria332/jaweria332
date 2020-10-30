@@ -45,3 +45,12 @@
 [gmail]: hiyamughal@gmail.com
 [twitter]: https://twitter.com/JiyaMug66581006
 [linkedin]: https://linkedin.com/in/jiya-mughal-31ab631ab
+
+
+const themes = {
+    dark: {
+    title_color: "fff",
+    icon_color: "79ff97",
+    text_color: "9f9f9f",
+    bg_color: "151515",
+  }}
