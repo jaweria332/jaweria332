@@ -56,4 +56,3 @@
 <img src='https://github-readme-stats.vercel.app/api?username=jaweria332&show_icons=true&theme=algolia' height:'50'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jaweria332&layout=compact'>
  </p>
-
