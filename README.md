@@ -6,7 +6,7 @@
 - ☘️ I'm currently working on Frontend Web Development.
 - 🌱 I’m currently learning ML, DL and Software Development.
 - 👯 I’m looking to collaborate with other content developer.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: Singing is my hobby apart from studies and learning.
 
 
