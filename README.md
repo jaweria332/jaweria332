@@ -3,8 +3,8 @@
 ## I'm a Student, Enthusiastic learner,ML/DL Practioner, Developer, and Teacher!
 
 
-- ☘️ I'm currently working on Frontend Web Development.
-- 🌱 I’m currently learning ML, DL and Software Development.
+- ☘️ I'm currently working on some basic AI Project.
+- 👩‍💻 I'm currently learning ML, DL and Data Analysis. 
 - 👯 I’m looking to collaborate with other content developer.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: Singing is my hobby apart from studies and learning.
