@@ -3,11 +3,11 @@
 ## I'm a Student, Enthusiastic learner,ML/DL Practioner, Developer, and Teacher!
 
 
-- ☘️ I'm currently working on some basic AI Project.
-- 👩‍💻 I'm currently learning ML, DL and Data Analysis. 
+- ☘️ I'm currently working on the medical related project for a well-known organization.
+- 👩‍💻 I'm currently learning and practicing the web app implementation with Flask framework. 
 - 👯 I’m looking to collaborate with other content developer.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: Singing is my hobby apart from studies and learning.
+- 🥅 2022 Goals: Contribute more on different projects and indulge in continous learning to enhance skills.
+- ⚡ Fun fact: Singing is my hobby apart from playing with data, programming, studies and learning.
 
 
 ### Connect With Me :v:
